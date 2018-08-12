@@ -1,22 +1,34 @@
 ---
 layout: default
+ime: Оранжева брезовка / Oранжева манатарка
+yadlivost: Ядлива
 ---
-# Гъбите в България
-***
+##### Отровен двойник: ...
 
-## Оранжева брезовка
-## (оранжева манатарка)
-#### Ядлива &#x1f600;
+![Оранжева манатарка](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Leccinum_aurantiacum.jpg/360px-Leccinum_aurantiacum.jpg)
+
+**Описание.** Шапка 5-15 см в диаметър, при най-младите екземпляри почти сферична, по-късно разперена до плоско изпъкнала, жълтооранжева до оранжевочервена.
+
+Повърхността гладка, гола или финно кадифена, суха.
+
+Ръбът първоначално подвит навътре, по-късно изправен, равен, плитко насечен, понякога парцалесто накъсан.
+
+Месото дебело, меко, бяло, при нараняване се оцветява в розово, виолетово до сивочерно.
+
+Тръбичките свободни от пънчето, дълги 20-35 мм, лесно отделящи се от месото, бели до сиви, с малки кръгли пори със същия цвят. Спорообразуваща повърхност пръстеновидно вдлъбната около пънчето.
+
+Спорите продълговато елипсоидни до вретеновидни, глядки бледожълти, 13-17 х 4-5 мк. Споровият прашец маслиненокафяв.
+
+Пънчето 6-15 х 1,5-3 см, плътно, твърдо, цилиндрично или слабо разширено към основата (обратно бухалковидно), белезникаво, при нараняване се оцветява бледовиолетово до сивочерно, по цялата дължина покрито с кафяви до черни люспи.
+
+**Местообитаване и сезонност.** Расте върху почва в широколистни гори, най-често под бреза, трепетлика, топола от началото на лятото до края на есента (Юни - Ноември).
+
+**Вкусови качества.** Много добра ядлива гъба с приятен вкус и гъбен аромат.
+
+**Употреба.** В свежо състояние, сушена и консервирана.
+
+**Готварски рецепти.** ...
 
 *лат. Léccinum aurantíacum*
 
 *рус. Подоси́новик кра́сный*
-
-![Оранжева манатарка](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Leccinum_aurantiacum.jpg/360px-Leccinum_aurantiacum.jpg)
-&#9760;
-
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
